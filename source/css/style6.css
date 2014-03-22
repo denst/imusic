@@ -1,0 +1,586 @@
+#
+                                                                                                                                    pidoco.congratulations.form - submit,
+                                                                                                                                    #pidoco.congratulations a.
+                                                                                                                                    continue -single {
+                                                                                                                                        background: #009CC9;border:0;color:white;display:inline-block;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);padding:10px;font-size:14px;font-weight:bold;line-height:1.0em;text-transform:none;margin-left:4px;border-image:initial;cursor:pointer;margin:0 15px 0 0;}# pidoco.congratulations.form - submit: hover,
+                                                                                                                                        #pidoco.congratulations a.
+                                                                                                                                        continue -single: hover {
+                                                                                                                                            background: #00acdb;}# pidoco.congratulations a.
+                                                                                                                                            continue -team {
+                                                                                                                                                display: inline - block;
+                                                                                                                                                padding: 10px 0;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.congratulations p,
+                                                                                                                                            #pidoco.congratulations div.description,
+                                                                                                                                            #pidoco.congratulations fieldset {
+                                                                                                                                                margin: 0 0 24px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco form# user - pass - reset {
+                                                                                                                                                border: 8px solid# e6e6e6;
+                                                                                                                                                margin: 50px auto 0 auto;
+                                                                                                                                                padding: 10px;
+                                                                                                                                                width: 500px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco form# user - pass - reset.form - submit {
+                                                                                                                                                padding: 0 20px 2px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco form# user - pass - reset p: first - child {
+                                                                                                                                                margin - top: 0;
+                                                                                                                                            }#
+                                                                                                                                            pidoco# pidoco - promotion - claim - form {
+                                                                                                                                                border: 8px solid# e6e6e6;
+                                                                                                                                                margin: 50px auto 0 auto;
+                                                                                                                                                padding: 10px;
+                                                                                                                                                width: 918px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco# pidoco - promotion - claim - form input.form - checkbox {
+                                                                                                                                                float: left;
+                                                                                                                                            }#
+                                                                                                                                            pidoco# pidoco - promotion - claim - form.form - submit {
+                                                                                                                                                padding: 0 20px 2px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco# pidoco - mailer - invite fieldset {
+                                                                                                                                                margin - top: 20px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.features - box {
+                                                                                                                                                padding: 26px 0 0;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.features - list {
+                                                                                                                                                list - style: none;
+                                                                                                                                                margin: 0;
+                                                                                                                                                padding: 0;
+                                                                                                                                                width: 981px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.features - list li {
+                                                                                                                                                display: inline - block;
+                                                                                                                                                vertical - align: top;
+                                                                                                                                                width: 302px;
+                                                                                                                                                margin: 0 24px 12px 0;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.features - list h4 {
+                                                                                                                                                margin: 0 0 10px;
+                                                                                                                                            }#
+                                                                                                                                            pidoco.features - list h4 a {
+                                                                                                                                                font - size: 14px;
+                                                                                                                                                color: #444;}# pidoco.features - list.holder {
+                                                                                                                                                    width: 100 % ;
+                                                                                                                                                    overflow: hidden;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.features - list img {
+                                                                                                                                                    float: left;
+                                                                                                                                                    margin: 0 13px 0 0;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.features - list.text {
+                                                                                                                                                    height: 1 % ;
+                                                                                                                                                    overflow: hidden;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.features - list p {
+                                                                                                                                                    margin: 0;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.text - holder {
+                                                                                                                                                    float: left;
+                                                                                                                                                    width: 444px;
+                                                                                                                                                    font - size: 18px;
+                                                                                                                                                    line - height: 24px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.text - holder h1 {
+                                                                                                                                                    line - height: 36px;
+                                                                                                                                                    margin - top: -6px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.holder {
+                                                                                                                                                    width: 954px;
+                                                                                                                                                    margin: 0 auto;
+                                                                                                                                                    overflow: hidden;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.text {
+                                                                                                                                                    float: left;
+                                                                                                                                                    width: 462px;
+                                                                                                                                                    padding: 0 0 35px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.box {
+                                                                                                                                                    background: #fff;
+                                                                                                                                                    width: 337px; - webkit - border - radius: 10px; - moz - border - radius: 10px;
+                                                                                                                                                    border - radius: 10px;
+                                                                                                                                                    behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                                                                                    position: relative;
+                                                                                                                                                    padding: 19px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.box ul {
+                                                                                                                                                    list - style: none;
+                                                                                                                                                    margin: 0 0 15px;
+                                                                                                                                                    padding: 0 4px;
+                                                                                                                                                    font - size: 16px;
+                                                                                                                                                    line - height: 22px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.box ul li {
+                                                                                                                                                    background: url(/sites/all / themes / pidoco2011 / images / bullet01.gif) no - repeat 0 1px;
+                                                                                                                                                    padding - left: 31px;
+                                                                                                                                                }#
+                                                                                                                                                pidoco.promo.free {
+                                                                                                                                                    display: block;
+                                                                                                                                                    background: #009cc9;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);position:relative;font-size:30px;font-weight:bold;line-height:50px;color:# fff;
+                                                                                                                                                    text - shadow: 1px 1px #005f9e;text-align:center;text-transform:uppercase;}# pidoco.promo.free: hover {
+                                                                                                                                                        text - decoration: none;
+                                                                                                                                                        background: #00acdb;}# pidoco.free em {
+                                                                                                                                                            font: bold italic 26px 'Droid Serif',
+                                                                                                                                                            serif;
+                                                                                                                                                            text - transform: none;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.promo.tour {
+                                                                                                                                                            background: url(/sites/all / themes / pidoco2011 / images / btn - tour.png) no - repeat;
+                                                                                                                                                            width: 163px;
+                                                                                                                                                            height: 32px;
+                                                                                                                                                            position: absolute;
+                                                                                                                                                            bottom: -19px;
+                                                                                                                                                            right: 48px;
+                                                                                                                                                            color: #fff;
+                                                                                                                                                            font: italic 18px / 28px 'Droid Serif',
+                                                                                                                                                            serif;
+                                                                                                                                                            text - align: center;
+                                                                                                                                                            padding - right: 5px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.promo.tour span {
+                                                                                                                                                            text - decoration: underline;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.promo.tour: hover {
+                                                                                                                                                            background - position: 0 - 32px;
+                                                                                                                                                            text - decoration: none;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list {
+                                                                                                                                                            list - style - type: none;
+                                                                                                                                                            margin: 0;
+                                                                                                                                                            padding: 0;
+                                                                                                                                                            display: inline;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list li {
+                                                                                                                                                            background: url(/sites/all / themes / pidoco2011 / images / partner - list - sprite.png ? v = 2) no - repeat;
+                                                                                                                                                            float: left;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list a {
+                                                                                                                                                            display: block;
+                                                                                                                                                            text - decoration: none;
+                                                                                                                                                            width: 100 % ;
+                                                                                                                                                            height: 100 % ;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.telekom {
+                                                                                                                                                            background - position: 0 0;
+                                                                                                                                                            margin: 0px 15px 0px 15px;
+                                                                                                                                                            width: 90px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.mozilla {
+                                                                                                                                                            background - position: 0 - 50px;
+                                                                                                                                                            margin: 0px 10px 0 0;
+                                                                                                                                                            width: 51px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.finn {
+                                                                                                                                                            background - position: 0 - 100px;
+                                                                                                                                                            margin: 0px 10px 0px 0;
+                                                                                                                                                            width: 67px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.sapientnitro {
+                                                                                                                                                            background - position: 0 - 150px;
+                                                                                                                                                            margin: 0px 10px 0 0;
+                                                                                                                                                            width: 75px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.zimory - small {
+                                                                                                                                                            background - position: 0 - 200px;
+                                                                                                                                                            margin: 0px 10px 0px 0;
+                                                                                                                                                            width: 91px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.partners - list.sanofi {
+                                                                                                                                                            background - position: 0 - 250px;
+                                                                                                                                                            margin: 0px 10px 0px 0;
+                                                                                                                                                            width: 63px;
+                                                                                                                                                            height: 50px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list {
+                                                                                                                                                            list - style: none;
+                                                                                                                                                            margin: 0 0 4px;
+                                                                                                                                                            padding: 0;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list li {
+                                                                                                                                                            width: 100 % ;
+                                                                                                                                                            overflow: hidden;
+                                                                                                                                                            padding - bottom: 14px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list img {
+                                                                                                                                                            float: left;
+                                                                                                                                                            margin: 2px 14px 0 0;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list.blockquote {
+                                                                                                                                                            height: 1 % ;
+                                                                                                                                                            overflow: hidden;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco# main.blockquote p {
+                                                                                                                                                            margin: 0;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list blockquote {
+                                                                                                                                                            margin: 0;
+                                                                                                                                                            padding: 0;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list cite {
+                                                                                                                                                            display: block;
+                                                                                                                                                            font: bold 14px / 18px 'Droid Sans',
+                                                                                                                                                            sans - serif;
+                                                                                                                                                            margin - bottom: 5px;
+                                                                                                                                                            text - indent: 2px;
+                                                                                                                                                        }#
+                                                                                                                                                        pidoco.testim - list cite a {
+                                                                                                                                                            color: #444;}# pidoco.testim - list q {
+                                                                                                                                                                font: italic 14px 'Droid Serif',
+                                                                                                                                                                serif;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo# promocontent.box {
+                                                                                                                                                                height: 131px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.xmastree {
+                                                                                                                                                                display: inline - block;
+                                                                                                                                                                position: relative;
+                                                                                                                                                                left: 430px;
+                                                                                                                                                                top: -260px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.xmaspresentbox {
+                                                                                                                                                                display: inline - block;
+                                                                                                                                                                position: relative;
+                                                                                                                                                                left: 410px;
+                                                                                                                                                                top: -255px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.xmaspresentbox img {
+                                                                                                                                                                width: 100px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.messages.promospecial {
+                                                                                                                                                                position: relative;
+                                                                                                                                                                background: #ff812d;
+                                                                                                                                                                top: -120px;
+                                                                                                                                                                left: 585px;
+                                                                                                                                                                width: 210px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.messages.promospecial a {
+                                                                                                                                                                color: black;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.promo.messages.promospecial a: hover {
+                                                                                                                                                                text - decoration: none;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.plans - area.messages.promospecial {
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                background: #ff812d;
+                                                                                                                                                                top: 0px;
+                                                                                                                                                                left: 400px;
+                                                                                                                                                                width: 310px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.plans - area.messages.promospecial h2 {
+                                                                                                                                                                margin: 10px 0px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.birthday - cupcake {
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                bottom: 18px;
+                                                                                                                                                                right: 295px;
+                                                                                                                                                                width: 200px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.birthday - promo {
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                bottom: 20px;
+                                                                                                                                                                right: 0;
+                                                                                                                                                                width: 220px; - moz - border - radius: 12px; - webkit - border - radius: 12px;
+                                                                                                                                                                border - radius: 12px;
+                                                                                                                                                                background - color: #ff7200;
+                                                                                                                                                                padding: 10px;
+                                                                                                                                                                z - index: 1;
+                                                                                                                                                                color: #fff;
+                                                                                                                                                                font - family: 'Droid Sans',
+                                                                                                                                                                sans - serif;
+                                                                                                                                                                font - size: 16px;
+                                                                                                                                                                line - height: 22px;
+                                                                                                                                                                font - weight: normal;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.birthday - promo h2 {
+                                                                                                                                                                font: bold italic 26px 'Droid Serif',
+                                                                                                                                                                serif;
+                                                                                                                                                                text - transform: none;
+                                                                                                                                                                padding - bottom: 5px;
+                                                                                                                                                                margin: 0px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.birthday - promo p {
+                                                                                                                                                                margin: 0px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.chick,
+                                                                                                                                                            #pidoco.egg - lid,
+                                                                                                                                                            #pidoco.easter - egg - large,
+                                                                                                                                                            #pidoco.easter - eggs - small {
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                bottom: 18px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.chick {
+                                                                                                                                                                right: 370px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.egg - lid {
+                                                                                                                                                                right: 310px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.easter - egg - large {
+                                                                                                                                                                bottom: 38px;
+                                                                                                                                                                right: 20px;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.easter - eggs - small {
+                                                                                                                                                                right: 0;
+                                                                                                                                                                z - index: 2;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.easter - promo {
+                                                                                                                                                                position: absolute;
+                                                                                                                                                                bottom: 114px;
+                                                                                                                                                                right: 30px;
+                                                                                                                                                                width: 195px; - moz - border - radius: 12px; - webkit - border - radius: 12px;
+                                                                                                                                                                border - radius: 12px;
+                                                                                                                                                                background - color: #225f72;padding:8px;z-index:1;color:# fff;
+                                                                                                                                                                font - family: 'Droid Sans',
+                                                                                                                                                                sans - serif;
+                                                                                                                                                                font - size: 16px;
+                                                                                                                                                                line - height: 22px;
+                                                                                                                                                                font - weight: normal;
+                                                                                                                                                                text - decoration: none;
+                                                                                                                                                            }#
+                                                                                                                                                            pidoco.easter - promo: hover {
+                                                                                                                                                                background - color: #2c7287;}# pidoco.easter - promo h2 {
+                                                                                                                                                                    font: bold italic 26px 'Droid Serif',
+                                                                                                                                                                    serif;
+                                                                                                                                                                    text - transform: none;
+                                                                                                                                                                    padding - bottom: 5px;
+                                                                                                                                                                    margin: 0px;
+                                                                                                                                                                    cursor: pointer;
+                                                                                                                                                                }#
+                                                                                                                                                                pidoco.easter - promo p {
+                                                                                                                                                                    margin: 0px;
+                                                                                                                                                                    cursor: pointer;
+                                                                                                                                                                }#
+                                                                                                                                                                pidoco.promo - condition {
+                                                                                                                                                                    font - size: 11px;
+                                                                                                                                                                    font - weight: normal;
+                                                                                                                                                                    line - height: 11px;
+                                                                                                                                                                    color: #222;position:absolute;bottom:0;right:0;padding:0 20px 5px 0;}@keyframes halloween-shake{0%{transform:translate(2px,1px) rotate(0deg);}10%{transform:translate(-1px,-2px) rotate(-1deg);}20%{transform:translate(-3px,0px) rotate(1deg);}30%{transform:translate(0px,2px) rotate(0deg);}40%{transform:translate(1px,-1px) rotate(1deg);}50%{transform:translate(-1px,2px) rotate(-1deg);}60%{transform:translate(-3px,1px) rotate(0deg);}70%{transform:translate(2px,1px) rotate(-1deg);}80%{transform:translate(-1px,-1px) rotate(1deg);}90%{transform:translate(2px,2px) rotate(0deg);}100%{transform:translate(1px,-2px) rotate(-1deg);}}@-moz-keyframes halloween-shake{0%{-moz-transform:translate(2px,1px) rotate(0deg);}10%{-moz-transform:translate(-1px,-2px) rotate(-1deg);}20%{-moz-transform:translate(-3px,0px) rotate(1deg);}30%{-moz-transform:translate(0px,2px) rotate(0deg);}40%{-moz-transform:translate(1px,-1px) rotate(1deg);}50%{-moz-transform:translate(-1px,2px) rotate(-1deg);}60%{-moz-transform:translate(-3px,1px) rotate(0deg);}70%{-moz-transform:translate(2px,1px) rotate(-1deg);}80%{-moz-transform:translate(-1px,-1px) rotate(1deg);}90%{-moz-transform:translate(2px,2px) rotate(0deg);}100%{-moz-transform:translate(1px,-2px) rotate(-1deg);}}@-webkit-keyframes halloween-shake{0%{-webkit-transform:translate(2px,1px) rotate(0deg);}10%{-webkit-transform:translate(-1px,-2px) rotate(-1deg);}20%{-webkit-transform:translate(-3px,0px) rotate(1deg);}30%{-webkit-transform:translate(0px,2px) rotate(0deg);}40%{-webkit-transform:translate(1px,-1px) rotate(1deg);}50%{-webkit-transform:translate(-1px,2px) rotate(-1deg);}60%{-webkit-transform:translate(-3px,1px) rotate(0deg);}70%{-webkit-transform:translate(2px,1px) rotate(-1deg);}80%{-webkit-transform:translate(-1px,-1px) rotate(1deg);}90%{-webkit-transform:translate(2px,2px) rotate(0deg);}100%{-webkit-transform:translate(1px,-2px) rotate(-1deg);}}# pidoco.promo.shake: hover,
+                                                                                                                                                                    #pidoco.promo.shake: focus {
+                                                                                                                                                                        animation - name: halloween - shake;
+                                                                                                                                                                        animation - duration: 0.8s;
+                                                                                                                                                                        transform - origin: 50 % 50 % ;
+                                                                                                                                                                        animation - iteration - count: infinite;
+                                                                                                                                                                        animation - timing - function: linear; - moz - animation - name: halloween - shake; - moz - animation - duration: 0.8s; - moz - transform - origin: 50 % 50 % ; - moz - animation - iteration - count: infinite; - moz - animation - timing - function: linear; - webkit - animation - name: halloween - shake; - webkit - animation - duration: 0.8s; - webkit - transform - origin: 50 % 50 % ; - webkit - animation - iteration - count: infinite; - webkit - animation - timing - function: linear;
+                                                                                                                                                                    }#
+                                                                                                                                                                    pidoco.info - graphic {
+                                                                                                                                                                        width: 100 % ;
+                                                                                                                                                                        background: url('/files/pages/homepage/promo.png') white no - repeat;
+                                                                                                                                                                        background - position: bottom 32px center;
+                                                                                                                                                                        height: 420px;
+                                                                                                                                                                        border - radius: 5px;
+                                                                                                                                                                    }#
+                                                                                                                                                                    pidoco.info - graphic.landingpage {
+                                                                                                                                                                        height: 450px;
+                                                                                                                                                                    }#
+                                                                                                                                                                    pidoco# main.info - graphic.info - headline {
+                                                                                                                                                                        text - align: center;
+                                                                                                                                                                        font: bold 48px 'Droid Sans',
+                                                                                                                                                                        sans - serif;
+                                                                                                                                                                        letter - spacing: -1px;
+                                                                                                                                                                        word - spacing: 1px;
+                                                                                                                                                                        padding - top: 31px;
+                                                                                                                                                                        margin: 0px 0px 58px 0px;
+                                                                                                                                                                        color: #444444;}# pidoco# main.info - graphic.landingpage.info - headline {
+                                                                                                                                                                            margin - bottom: 20px;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco# main.info - graphic.landingpage.info - subheadline {
+                                                                                                                                                                            margin - bottom: 58px;
+                                                                                                                                                                            text - align: center;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - image {
+                                                                                                                                                                            position: absolute;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item {
+                                                                                                                                                                            margin - bottom: 26px;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item a {
+                                                                                                                                                                            display: inline - block;
+                                                                                                                                                                            height: 26px;
+                                                                                                                                                                            padding: 6px 10px 4px 10px;
+                                                                                                                                                                            color: white;
+                                                                                                                                                                            font: bold italic 18px 'Droid Serif',
+                                                                                                                                                                            serif;
+                                                                                                                                                                            cursor: pointer;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item.arrow {
+                                                                                                                                                                            display: inline - block;
+                                                                                                                                                                            border: 9px solid;
+                                                                                                                                                                            position: relative;
+                                                                                                                                                                            top: 5px;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item.info - item - first a {
+                                                                                                                                                                            background: #ff7200;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item.info - item - second a {
+                                                                                                                                                                            background: #a2b900;
+                                                                                                                                                                        }#
+                                                                                                                                                                        pidoco.info - graphic.info - item.info - item - third a {
+                                                                                                                                                                            background: #3696d0;}# pidoco.info - graphic.info - items - left.info - item - first.arrow {
+                                                                                                                                                                                border - color: transparent transparent transparent# ff7200;
+                                                                                                                                                                            }#
+                                                                                                                                                                            pidoco.info - graphic.info - items - left.info - item - second.arrow {
+                                                                                                                                                                                border - color: transparent transparent transparent# a2b900;
+                                                                                                                                                                            }#
+                                                                                                                                                                            pidoco.info - graphic.info - items - left.info - item - third.arrow {
+                                                                                                                                                                                border - color: transparent transparent transparent #3696d0;}# pidoco.info - graphic.info - items - right.info - item - first.arrow {
+                                                                                                                                                                                    border - color: transparent# ff7200 transparent transparent;
+                                                                                                                                                                                }#
+                                                                                                                                                                                pidoco.info - graphic.info - items - right.info - item - second.arrow {
+                                                                                                                                                                                    border - color: transparent# a2b900 transparent transparent;
+                                                                                                                                                                                }#
+                                                                                                                                                                                pidoco.info - graphic.info - items - right.info - item - third.arrow {
+                                                                                                                                                                                    border - color: transparent #3696d0 transparent transparent;}# pidoco.info - graphic.info - items - right {
+                                                                                                                                                                                        float: right;
+                                                                                                                                                                                        text - align: right;
+                                                                                                                                                                                    }#
+                                                                                                                                                                                    pidoco.info - graphic.info - overlay {
+                                                                                                                                                                                        display: none;
+                                                                                                                                                                                        position: absolute;
+                                                                                                                                                                                        z - index: 1;
+                                                                                                                                                                                        margin - top: -20px;
+                                                                                                                                                                                        margin - left: -5px;
+                                                                                                                                                                                        width: 350px;
+                                                                                                                                                                                        box - shadow: 0px 5px 8px #888;border:1px solid # dcdcdc;
+                                                                                                                                                                                        border - radius: 5px;
+                                                                                                                                                                                        padding: 17px;
+                                                                                                                                                                                        background: white;
+                                                                                                                                                                                        font: 15px 'Droid Sans',
+                                                                                                                                                                                        sans - serif;
+                                                                                                                                                                                        line - height: 21px;
+                                                                                                                                                                                        color: #333333;}# pidoco.info - graphic.info - overlay.info - visible {
+                                                                                                                                                                                            display: inline - block;
+                                                                                                                                                                                        }#
+                                                                                                                                                                                        pidoco.info - graphic.info - items - right.info - overlay {
+                                                                                                                                                                                            margin - left: -382px;
+                                                                                                                                                                                            text - align: left;
+                                                                                                                                                                                        }#
+                                                                                                                                                                                        pidoco# main.register - panel {
+                                                                                                                                                                                            border - top: 1px solid# dcdcdc;
+                                                                                                                                                                                            border - bottom: 1px solid# dcdcdc;
+                                                                                                                                                                                        }#
+                                                                                                                                                                                        pidoco# main.register - panel.register - wrapper {
+                                                                                                                                                                                            margin: 15px 0px;
+                                                                                                                                                                                            padding: 10px;
+                                                                                                                                                                                            border - radius: 8px;
+                                                                                                                                                                                            background: #ebebeb;
+                                                                                                                                                                                            height: 58px;
+                                                                                                                                                                                        }#
+                                                                                                                                                                                        pidoco# main.register - panel.register - wrapper h2 {
+                                                                                                                                                                                            margin: 0px;
+                                                                                                                                                                                            color: #444444;font:bold 24px 'Open Sans',sans-serif;text-transform:uppercase;}# pidoco# main.register - panel.register - wrapper.subline {
+                                                                                                                                                                                                color: #444444;font:italic 14px/30px 'Droid Serif',serif;}# pidoco# main.register - panel.register - wrapper.register - column {
+                                                                                                                                                                                                    float: left;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.register - column - right {
+                                                                                                                                                                                                    float: right;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - panel {
+                                                                                                                                                                                                    margin - left: 30px;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - panel.register - form - row {
+                                                                                                                                                                                                    margin - bottom: 10px;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - panel span.form - required {
+                                                                                                                                                                                                    display: none;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.column {
+                                                                                                                                                                                                    float: left;
+                                                                                                                                                                                                    width: 180px;
+                                                                                                                                                                                                    margin - right: 13px;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - item label {
+                                                                                                                                                                                                    display: inline;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - item,
+                                                                                                                                                                                                #pidoco# main.register - panel.register - wrapper.form - actions {
+                                                                                                                                                                                                    margin: 0px;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.form - actions input {
+                                                                                                                                                                                                    display: none;
+                                                                                                                                                                                                }#
+                                                                                                                                                                                                pidoco# main.register - panel.register - wrapper.signup - button {
+                                                                                                                                                                                                    font: normal 18px 'Droid Sans',
+                                                                                                                                                                                                    sans - serif;
+                                                                                                                                                                                                    letter - spacing: 1px;
+                                                                                                                                                                                                    padding: 3px 10px 1px 10px;
+                                                                                                                                                                                                    width: 160px;
+                                                                                                                                                                                                    height: 54px;
+                                                                                                                                                                                                    border - radius: 8px;
+                                                                                                                                                                                                    background: #a2b900;
+                                                                                                                                                                                                    color: white;
+                                                                                                                                                                                                    text - shadow: 1px 1px #4e5c00;cursor:pointer;text-align:center;}# pidoco# main.register - panel.register - wrapper.signup - button: hover {
+                                                                                                                                                                                                        background: #b0cf00;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco# main.register - panel.register - wrapper.signup - button span {
+                                                                                                                                                                                                        text - transform: uppercase;
+                                                                                                                                                                                                        font: normal 26px 'Open Sans',
+                                                                                                                                                                                                        sans - serif;
+                                                                                                                                                                                                        line - height: 30px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco# main.register - panel.register - wrapper.form - text {
+                                                                                                                                                                                                        width: 164px;
+                                                                                                                                                                                                        height: 17px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.main - holder {
+                                                                                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bg - content.gif) repeat - y 100 % 0;
+                                                                                                                                                                                                        border: 1px solid# e6e6e6;
+                                                                                                                                                                                                        width: 927px;
+                                                                                                                                                                                                        overflow: hidden; - webkit - border - radius: 10px; - moz - border - radius: 10px;
+                                                                                                                                                                                                        border - radius: 10px;
+                                                                                                                                                                                                        behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                                                                                                                                        padding: 27px 0 46px 27px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.main - holder3 {
+                                                                                                                                                                                                        border: 1px solid# e6e6e6; - webkit - border - radius: 10px; - moz - border - radius: 10px;
+                                                                                                                                                                                                        border - radius: 10px;
+                                                                                                                                                                                                        padding: 0px 24px 46px 24px;
+                                                                                                                                                                                                        width: 904px;
+                                                                                                                                                                                                        margin - top: 50px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.tooltip - box {
+                                                                                                                                                                                                        position: absolute;
+                                                                                                                                                                                                        right: -205px;
+                                                                                                                                                                                                        top: 10px;
+                                                                                                                                                                                                        width: 238px;
+                                                                                                                                                                                                        color: #fff;
+                                                                                                                                                                                                        font - size: 12px;
+                                                                                                                                                                                                        line - height: 16px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.tooltip - box.t {
+                                                                                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bg - tooltip - t.png) no - repeat;
+                                                                                                                                                                                                        width: 205px;
+                                                                                                                                                                                                        overflow: hidden;
+                                                                                                                                                                                                        padding: 0 10px 0 23px;
+                                                                                                                                                                                                        height: 37px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.tooltip - box.c {
+                                                                                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bg - tooltip - c.png) repeat - y;
+                                                                                                                                                                                                        width: 205px;
+                                                                                                                                                                                                        overflow: hidden;
+                                                                                                                                                                                                        padding: 8px 10px 0 23px;
+                                                                                                                                                                                                        min - height: 87px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.error - box {
+                                                                                                                                                                                                        top: -34px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.error - box.t {
+                                                                                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bg - tooltip - t2.png) no - repeat;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.tooltip - box.b {
+                                                                                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bg - tooltip - b.png) no - repeat;
+                                                                                                                                                                                                        width: 238px;
+                                                                                                                                                                                                        height: 12px;
+                                                                                                                                                                                                    }#
+                                                                                                                                                                                                    pidoco.tooltip - box h3,
+                                                                                                                                                                                                    #pidoco.tooltip - box.heading {
+                                                                                                                                                                                                        font: italic 18px / 37px 'Droid Serif',
+                                                                                                                                                                                                        serif!important;
+                                                                                                                                                                                                        margin: 0;
+                                                                                                                                                                                                        display: block;
+                                                                                                                                                                                                    }#

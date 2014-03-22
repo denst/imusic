@@ -1,0 +1,1006 @@
+body {
+    margin: 0;
+    font: 13px / 18px 'Droid Sans',
+    sans-serif;
+    background: #fff;
+    color: #333;min-width:960px;}img{border:0;}a{text-decoration:none;color:# 0077b7;
+}
+a: hover {
+    text-decoration: underline;
+}
+input,
+textarea,
+select {
+    font: 100 % arial,
+    sans-serif;
+    vertical-align: middle;
+    color: #000;outline:none;}input:focus{background:# f0f8ff!important;
+}
+form,
+fieldset {
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+q {
+    quotes: none;
+}
+q: before {
+    content: "";
+}
+q: after {
+    content: "";
+}.both {
+    clear: both;
+}
+div# headline {
+    display: none;
+}.clear {
+    clear: both!important;
+}.no-float {
+    float: none!important;
+}.float-right {
+    float: right!important;
+}.float-left {
+    float: left!important;
+}.no-border {
+    border-width: 0!important;
+}.no-border-top {
+    border-top-width: 0!important;
+}.no-border-right {
+    border-right-width: 0!important;
+}.no-border-bottom {
+    border-bottom-width: 0!important;
+}.no-border-left {
+    border-left-width: 0!important;
+}.no-margin {
+    margin: 0!important;
+}.no-margin-top {
+    margin-top: 0!important;
+}.no-margin-right {
+    margin-right: 0!important;
+}.no-margin-bottom {
+    margin-bottom: 0!important;
+}.no-margin-left {
+    margin-left: 0!important;
+}.hidden {
+    display: none!important;
+    visibility: hidden;
+}.visually-hidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}.invisible {
+    visibility: hidden;
+}.clearfix: before,
+.clearfix: after {
+    content: " ";
+    display: table;
+}.clearfix: after {
+    clear: both;
+}#
+pidoco.nav-holder li {
+    list-style: none;
+    padding: 0;
+}#
+pidoco table.glossary td {
+    vertical-align: top;
+}#
+pidoco div.messages {
+    margin: auto;
+    color: #333;background:# c2e3fa;
+    border: none;
+    margin: 20px auto 20px auto;
+    overflow: hidden;
+    padding: 8px 10px;
+    width: 930px;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);-moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);-webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+}#
+pidoco div.messages p {
+    margin: 0;
+    padding: 0;
+}#
+pidoco div.messages.error {
+    background: #ffe095;
+}#
+pidoco# badCurrency div.messages {
+    width: auto;
+}#
+pidoco div.messages ul {
+    margin: 0;
+    padding-left: 25px;
+}#
+pidoco input.error {
+    border: 1px solid# F9B67F;
+    color: black;
+}#
+pidoco# main {
+    width: 954px;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+}#
+pidoco.twocolumns {
+    width: 100 % ;
+    overflow: hidden;
+    border-bottom: 1px solid# dcdcdc;
+    padding: 36px 0 23px;
+}#
+pidoco.twocolumns.column {
+    float: left;
+    width: 440px;
+    margin-left: 53px;
+    color: #444;}# pidoco.twocolumns.column: first-child {
+        margin: 0;
+    }#
+    pidoco.twocolumns h2 {
+        font-size: 18px;
+        line-height: 22px;
+        color: #333;margin:0 0 15px;}# pidoco.twocolumns p {
+            margin: 0 0 18px;
+        }#
+        pidoco.twocolumns2 {
+            padding: 26px 0 29px;
+        }#
+        pidoco# main h3 {
+            font-size: 24px;
+            line-height: 28px;
+            margin: 0 0 23px;
+            color: #333;}# pidoco.save-box.logo a {
+                display: block;
+                height: 100 % ;
+            }#
+            pidoco# main h1.imagetext {
+                margin: -50px 0 32px;
+                letter-spacing: 0px;
+                font: 12px / 16px "Droid Sans",
+                sans-serif;
+                font-style: italic;
+            }#
+            pidoco# main h3.pagetitle {
+                margin: 0 0 12px;
+                padding: 33px 0 0;
+                letter-spacing: -1px;
+                word-spacing: 1px;
+                font: bold 30px / 40px "Droid Sans",
+                sans-serif;
+            }#
+            pidoco# main h1 {
+                margin: 0 0 12px;
+                padding: 33px 0 0;
+                letter-spacing: -1px;
+                word-spacing: 1px;
+                font: bold 30px / 40px "Droid Sans",
+                sans-serif;
+            }#
+            pidoco# main h1 span {
+                font-weight: normal;
+            }#
+            pidoco# content {
+                float: left;
+                width: 492px;
+            }#
+            pidoco# content h2 {
+                font-size: 18px;
+                margin: 0 0 13px;
+            }#
+            pidoco# content.block {
+                border: 1px solid# d9d9d9;-webkit-border-radius: 10px;-moz-border-radius: 10px;
+                border-radius: 10px;
+                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                padding: 16px 9px 9px;
+                position: relative;
+                margin: 0 0 37px;
+                overflow: hidden;
+            }#
+            pidoco.terms-list li {
+                width: 100 % ;
+                overflow: hidden;
+                padding-bottom: 12px;
+            }#
+            pidoco.terms-list li input[type = "radio"] {
+                float: left;
+                margin: 4px 16px 0 1px;
+                width: 16px;
+                height: 15px;
+                padding: 0;
+            }#
+            pidoco.terms-list label {
+                float: left;
+                width: 375px;
+            }#
+            pidoco.terms-list label strong {
+                display: block;
+            }#
+            pidoco.payments {
+                width: 100 % ;
+                overflow: hidden;
+            }#
+            pidoco.payments.column {
+                float: left;
+                width: 150px;
+                padding-right: 10px;
+            }#
+            pidoco.payments.column.row {
+                width: 100 % ;
+                overflow: hidden;
+                margin: 0 0 13px;
+            }#
+            pidoco.payments input[type = "radio"] {
+                float: left;
+                width: 16px;
+                height: 15px;
+                padding: 0;
+                margin: 0 6px 0 0;
+            }#
+            pidoco.payments label {
+                float: left;
+                line-height: 16px;
+            }#
+            pidoco.payments.cards-list {
+                list-style: none;
+                margin: 0;
+                padding: 0 0 10px;
+                width: 100 % ;
+                overflow: hidden;
+            }#
+            pidoco.cards-list li {
+                float: left;
+                margin-right: 3px;
+            }#
+            pidoco.cards-list img {
+                display: block;
+            }#
+            pidoco.conf li {
+                width: 100 % ;
+                overflow: hidden;
+                padding: 0 0 3px;
+            }#
+            pidoco.conf li input[type = "checkbox"] {
+                float: left;
+                width: 16px;
+                height: 15px;
+                padding: 0;
+                margin: 0 8px 0 0;
+            }#
+            pidoco.conf li label {
+                float: left;
+                line-height: 16px;
+            }#
+            pidoco# main.heading {
+                width: 100 % ;
+                overflow: hidden;
+                padding: 29px 0 40px;
+            }#
+            pidoco.heading.faq {
+                float: right;
+                margin: 3px 4px 0 0;
+            }#
+            pidoco# main.heading h2 {
+                font-size: 24px;
+                margin: 0 0 7px;
+            }#
+            pidoco.main-holder2 {
+                background: url(/sites/all / themes / pidoco2011 / images / bg-content.gif) repeat-y-1px 0;
+                border: 1px solid# e6e6e6;
+                width: 928px;
+                overflow: hidden;-webkit-border-radius: 10px;-moz-border-radius: 10px;
+                border-radius: 10px;
+                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                padding: 18px 24px 46px 0;
+            }#
+            pidoco.main-holder2# content {
+                float: right;
+                width: 686px;
+                line-height: 20px;
+            }#
+            pidoco.main-holder2# sidebar {
+                float: left;
+            }#
+            pidoco.actions {
+                line-height: 20px;
+                font-size: 14px;
+                font-weight: bold;
+                word-spacing: -1px;
+                margin-top: 30px;
+                overflow: hidden;
+            }#
+            pidoco.actions ul {
+                margin: 0;
+                padding: 0;
+            }#
+            pidoco.actions li {
+                float: left;
+                list-style: none;
+            }#
+            pidoco.actions a {
+                float: left;
+                padding: 6px 12px;-webkit-border-radius: 7px;-moz-border-radius: 7px;
+                border-radius: 7px;
+                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                position: relative;
+                margin-right: 10px;
+            }#
+            pidoco.actions a: hover {
+                cursor: pointer;
+            }#
+            pidoco.actions.top {
+                float: right;
+            }#
+            pidoco.actions.top a {
+                margin-right: 0px;
+            }#
+            pidoco.actions a: hover {
+                text-decoration: none;
+            }#
+            pidoco.actions li span {
+                padding: 0 11px;
+            }#
+            pidoco# content.visual {
+                float: left;
+                margin: -3px 25px 0-3px;
+                font-size: 12px;
+                line-height: 16px;
+                width: 388px;
+            }#
+            pidoco# content.visual img {
+                display: block;
+                margin: 0 0 2px;
+            }#
+            pidoco# content.visual.title {
+                display: block;
+                padding-left: 3px;
+            }#
+            pidoco.main-holder2# content h2 {
+                font-size: 24px;
+                line-height: 28px;
+                margin: 0 0 24px;
+            }#
+            pidoco.main-holder2# content h3 {
+                font-size: 14px;
+                margin: 0;
+            }#
+            pidoco.main-holder2# content p {
+                margin: 0 0 24px;
+            }#
+            pidoco.main-holder2# content.holder {
+                width: 100 % ;
+                overflow: hidden;
+                margin: 0 0 30px;
+                padding: 3px 0 0;
+            }#
+            pidoco.main-holder2# content ul {
+                list-style: disc;
+                margin: 0 0 30px 20px;
+                padding: 2px 0 0;
+                line-height: 18px;
+            }#
+            pidoco.main-holder2# content ul li {
+                padding: 0 0 2px 10px;
+            }#
+            pidoco.main-holder2# content.banner-wrapper {
+                position: relative;
+            }#
+            pidoco.main-holder2# content.banner {
+                margin-bottom: 20px;-webkit-border-radius: 10px;-moz-border-radius: 10px;
+                border-radius: 10px;
+                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                box-shadow: 1px 1px 1px 1px# ddd;-webkit-box-shadow: 1px 1px 1px 1px# ddd;-moz-box-shadow: 1px 1px 1px 1px# ddd;
+            }#
+            pidoco.main-holder2# content.caption {
+                position: absolute;
+                bottom: 40px;
+                left: 0px;
+                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                width: auto;
+                padding: 20px;
+                background: #333;background:rgba(0,0,0,0.7);-webkit-border-top-right-radius:20px;-webkit-border-bottom-right-radius:20px;-moz-border-radius-topright:20px;-moz-border-radius-bottomright:20px;border-top-right-radius:20px;border-bottom-right-radius:20px;}# pidoco.main-holder2# content.caption h3 {
+                    font: bold 24px / 34px 'Droid Serif',
+                    serif!important;
+                    color: #eee;
+                    letter-spacing: -1px;
+                }#
+                pidoco.main-holder2# content# referral-caption h3 {
+                    font: bold 20px / 28px 'Droid Serif',
+                    serif!important;
+                    width: 350px;
+                    margin-right: 220px;
+                }#
+                pidoco.main-holder2# content.caption a.join-program {
+                    background: #009cc9;border:0;color:# fff;-webkit-border-radius: 8px;-moz-border-radius: 8px;
+                    border-radius: 8px;
+                    behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                    padding: 12px;
+                    font: italic 16px 'Droid Serif',
+                    serif;
+                    text-transform: none;
+                    margin-left: 4px;
+                    position: absolute;
+                    right: 20px;
+                    top: 20px;
+                }#
+                pidoco.main-holder2# content.caption a.join-program: hover {
+                    background: #00acdb;border:0;}# pidoco.actions a.contact,
+                    #pidoco.actions a.blue {
+                        background: #009cc9;}# pidoco.actions a.contact: hover,
+                        #pidoco.actions a.blue: hover {
+                            background: #00acdb;}# pidoco.main-holder2# content.twocolumns {
+                                background: none;
+                                border-bottom: none;
+                                list-style: none;
+                                margin: 0;
+                                padding: 0;
+                            }#
+                            pidoco.main-holder2# content.twocolumns li {
+                                background: none!important;
+                                display: inline-block;
+                                vertical-align: top;
+                                width: 46 % ;
+                                list-style: none;
+                                margin: 0 25px 40px 0;
+                                padding: 0;
+                                min-height: 130px;
+                            }#
+                            pidoco.main-holder2# content.twocolumns h4 {
+                                font-size: 14px;
+                                color: #444;margin:0 0 10px;}# pidoco.main-holder2# content.details {
+                                    overflow: hidden;
+                                    height: 1 % ;
+                                    clear: both;
+                                }#
+                                pidoco.main-holder2# content.details.box {
+                                    background: #f5f5f5;
+                                    border: 1px solid# eee;
+                                    border-radius: 18px;-webkit-border-radius: 18px;-moz-border-radius: 18px;
+                                    float: left;
+                                    margin-left: 50px;
+                                    padding: 20px;
+                                    width: 260px;
+                                }#
+                                pidoco.main-holder2# content.details.box: first-child {
+                                    margin-left: 0;
+                                }#
+                                pidoco.main-holder2# content.details.box ul {
+                                    margin-bottom: 1.0em;
+                                }#
+                                pidoco div.main-holder2# content ul.press-contact {
+                                    overflow: hidden;
+                                    margin-left: 0;
+                                }#
+                                pidoco div.main-holder2# content ul.press-contact li {
+                                    background: none;
+                                    float: left;
+                                    width: 240px;
+                                    padding-left: 0;
+                                    list-style: none;
+                                }#
+                                pidoco div.main-holder2# how-it-works {
+                                    margin-bottom: 10px;
+                                }#
+                                pidoco div.main-holder2 div.program-policies {
+                                    overflow: hidden;
+                                    height: 1 % ;
+                                }#
+                                pidoco div.main-holder2 div.program-policies a {
+                                    float: right;
+                                }#
+                                pidoco div.main-holder2 table.info {
+                                    border-collapse: collapse;
+                                    padding: 0;
+                                    margin: 0;
+                                    width: 100 % ;
+                                    text-align: center;
+                                    font-weight: bold;
+                                    margin-bottom: 24px;
+                                }#
+                                pidoco div.main-holder2 table.info td {
+                                    border: 1px solid# e0e0e0;
+                                    padding: 8px 33px 8px;
+                                }#
+                                pidoco div.main-holder2 table.info.marked {
+                                    background: #f9f9f9;
+                                }#
+                                pidoco div.main-holder2 table.info td: first-child {
+                                    padding: 9px 11px 8px;
+                                }#
+                                pidoco.license-desc {
+                                    background: #f8f8f8;
+                                    border: 1px solid# e6e6e6;
+                                    margin: 10px 1px;
+                                    padding: 6px 6px 6px 15px;
+                                    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);-moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);-webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+                                }#
+                                pidoco.box a.action {
+                                    background: #009CC9;border:0;color:white;display:inline-block;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);padding:7px 8px;font:italic 16px 'Droid Serif',serif;text-transform:none;margin-left:4px;border-image:initial;cursor:pointer;}noscript{color:# fff;
+                                }#
+                                pidoco.back {
+                                    position: absolute;
+                                    left: -10000px;
+                                    top: auto;
+                                    width: 1px;
+                                    height: 1px;
+                                    overflow: hidden;
+                                }#
+                                pidoco.back: focus {
+                                    position: static;
+                                    width: auto;
+                                    height: auto;
+                                }#
+                                pidoco.skip {
+                                    position: absolute;
+                                    left: -10000px;
+                                    top: auto;
+                                    width: 1px;
+                                    height: 1px;
+                                    overflow: hidden;
+                                }#
+                                pidoco.skip: focus {
+                                    position: static;
+                                    width: auto;
+                                    height: auto;
+                                }.map {
+                                    background: #fff;
+                                    border: 1px solid# c9c9c9;
+                                    padding: 4px;
+                                }#
+                                pidoco.twocolumns.contact,
+                                #pidoco.twocolumns.contact {
+                                    font-size: 1.1em;
+                                    color: #444;line-height:1.8;}# edit-profile-address-wrapper {
+                                        display: none;
+                                    }#
+                                    pidoco# maintenance {
+                                        margin: 55px auto 0 auto;
+                                        text-align: center;
+                                        font: italic 16px 'Droid Serif',
+                                        serif;
+                                    }#
+                                    pidoco.main-holder2# content.my-plans p {
+                                        margin-bottom: 15px;
+                                    }#
+                                    pidoco.main-holder2# content.my-plans.section {
+                                        margin-bottom: 40px;
+                                    }#
+                                    pidoco.main-holder2# content.my-plans.actions {
+                                        margin: 0;
+                                    }#
+                                    pidoco# content.team-plan {
+                                        padding: 15px;
+                                        margin-bottom: 15px;
+                                    }#
+                                    pidoco# content.team-plan h3 {
+                                        font-size: 18px;
+                                        line-height: 22px;
+                                        color: #333;margin:0;}# pidoco# content.team-plan span.plan-meta {
+                                            display: block;
+                                            margin-bottom: 15px;
+                                        }#
+                                        pidoco div.main-holder2 table.manage-team-members td {
+                                            width: 150px;
+                                        }#
+                                        pidoco div.main-holder2 table.manage-team-members td: first-child {
+                                            width: auto;
+                                        }#
+                                        pidoco div.main-holder2 table.manage-team-members thead td {
+                                            border: 0;
+                                        }#
+                                        pidoco div.main-holder2 table.manage-team-members tfoot.form-text {
+                                            margin: 0;
+                                            padding: 7px 8px;
+                                            width: 500px;
+                                        }#
+                                        pidoco div.main-holder2 table.manage-team-members tfoot a {
+                                            line-height: 31px;
+                                        }#
+                                        pidoco.button {
+                                            display: inline-block;
+                                            padding: 6px 12px;
+                                            color: #666;font-size:14px;line-height:20px;font-weight:bold;background:# ebebeb;
+                                            behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                            cursor: pointer;-webkit-border-radius: 8px;-moz-border-radius: 8px;
+                                            border-radius: 8px;
+                                        }#
+                                        pidoco.button: hover {
+                                            background: #f3f3f3;
+                                            text-decoration: none;
+                                        }#
+                                        pidoco.button.button-primary {
+                                            background: #ff7200;
+                                            color: #fff;
+                                        }#
+                                        pidoco.button.button-primary: hover {
+                                            background: #ff9100;
+                                        }#
+                                        pidoco.button.button-secondary {
+                                            background: #009cc9;color:# fff;
+                                        }#
+                                        pidoco.button.button-secondary: hover {
+                                            background: #00acdb;}# pidoco.button.button-tertiary {
+                                                background: #a0bd00;
+                                                color: #fff;
+                                            }#
+                                            pidoco.button.button-tertiary: hover {
+                                                background: #b0cf00;
+                                            }#
+                                            pidoco.button.button-large {
+                                                padding: 10px 16px;
+                                                font-size: 18px;-webkit-border-radius: 10px;-moz-border-radius: 10px;
+                                                border-radius: 10px;
+                                            }#
+                                            pidoco.button.button-small {
+                                                padding: 4px 10px;
+                                                font-size: 12px;-webkit-border-radius: 6px;-moz-border-radius: 6px;
+                                                border-radius: 6px;
+                                            }#
+                                            pidoco.button.button-tiny {
+                                                padding: 3px 9px;
+                                                font-size: 10px;-webkit-border-radius: 6px;-moz-border-radius: 6px;
+                                                border-radius: 6px;
+                                            }
+                                                .table {
+                                                    width: 100 % ;
+                                                    max-width: 100 % ;
+                                                    background-color: #fff;
+                                                    border-collapse: collapse;
+                                                    border-spacing: 0;
+                                                    margin-bottom: 18px;
+                                            }.table th,
+                                            .table td {
+                                                padding: 8px;
+                                                line-height: 18px;
+                                                text-align: left;
+                                                vertical-align: top;
+                                                border-top: 1px solid# e0e0e0;
+                                                border-bottom: 0 none;
+                                            }.table th {
+                                                font-weight: bold;
+                                            }.table thead th {
+                                                vertical-align: bottom;
+                                            }.table caption + thead tr: first-child th,
+                                            .table caption + thead tr: first-child td,
+                                            .table colgroup + thead tr: first-child th,
+                                            .table colgroup + thead tr: first-child td,
+                                            .table thead: first-child tr: first-child th,
+                                            .table thead: first-child tr: first-child td {
+                                                border-top: 0;
+                                            }.table tbody + tbody {
+                                                border-top: 2px solid# e0e0e0;
+                                            }.table-heavy th,
+                                            .table-heavy td {
+                                                font-weight: bold;
+                                            }.table-centred th,
+                                            .table-centred td {
+                                                text-align: center;
+                                            }.table-bordered {
+                                                border: 1px solid# e0e0e0;
+                                                border-left: 0;
+                                            }.table-bordered th,
+                                            .table-bordered td {
+                                                border-left: 1px solid# e0e0e0;
+                                            }.table-bordered caption + thead tr: first-child th,
+                                            .table-bordered caption + tbody tr: first-child th,
+                                            .table-bordered caption + tbody tr: first-child td,
+                                            .table-bordered colgroup + thead tr: first-child th,
+                                            .table-bordered colgroup + tbody tr: first-child th,
+                                            .table-bordered colgroup + tbody tr: first-child td,
+                                            .table-bordered thead: first-child tr: first-child th,
+                                            .table-bordered tbody: first-child tr: first-child th,
+                                            .table-bordered tbody: first-child tr: first-child td {
+                                                border-top: 0;
+                                            }.table-condensed th,
+                                            .table-condensed td {
+                                                padding: 4px 5px;
+                                            }.table-expanded th,
+                                            .table-expanded td {
+                                                padding: 12px 10px;
+                                            }.table-striped tbody tr: nth-child(odd) td,
+                                            .table-striped tbody tr: nth-child(odd) th {
+                                                background-color: #f9f9f9;
+                                            }.table-hover tbody tr: hover td,
+                                            .table-hover tbody tr: hover th {
+                                                background-color: #e8f3fb;
+                                            }.table tbody tr.success td {
+                                                background-color: #e8f4c7;
+                                            }.table tbody tr.error td {
+                                                background-color: #ffd7d3;
+                                            }.table tbody tr.note td {
+                                                background-color: #fef1ca;
+                                            }.table tbody tr.info td {
+                                                background-color: #e8f3fb;
+                                            }.table tbody tr.marked td {
+                                                background-color: #f9f9f9;
+                                            }#
+                                            pidoco# header {
+                                                background: #a0bd00;
+                                                border-bottom: 12px solid# E47F2D;
+                                                min-height: 115px;
+                                            }#
+                                            pidoco# header.header-holder {
+                                                width: 654px;
+                                                margin: 0 auto;
+                                                padding: 13px 0 0 300px;
+                                                position: relative;
+                                                overflow: hidden;
+                                                min-height: 102px;
+                                            }#
+                                            pidoco# header.logo {
+                                                position: absolute;
+                                                top: 28px;
+                                                left: 0;
+                                                background: url(/sites/all / themes / pidoco2011 / images / logo.gif) no-repeat;
+                                                width: 243px;
+                                                height: 61px;
+                                                text-indent: -9999px;
+                                                overflow: hidden;
+                                                margin: 0;
+                                            }#
+                                            pidoco# header.logo a {
+                                                display: block;
+                                                height: 100 % ;
+                                            }#
+                                            pidoco# header.row {
+                                                height: 20px;
+                                                width: 100 % ;
+                                                margin-bottom: 47px;
+                                            }#
+                                            pidoco# header.options {
+                                                list-style: none;
+                                                margin: 0 0 0 3px;
+                                                padding: 0;
+                                                float: right;
+                                                background: #404040;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);font-size:14px;position:relative;}# pidoco# header.options.langshow {
+                                                    -webkit-border-bottom-right-radius: 0px;-moz-border-radius-bottomright: 0px;
+                                                    border-bottom-right-radius: 0px;
+                                                }#
+                                                pidoco.options li {
+                                                    float: left;
+                                                    background: url(/sites/all / themes / pidoco2011 / images / divider01.gif) repeat-y;
+                                                    padding: 1px 9px;
+                                                }#
+                                                pidoco.options li: first-child {
+                                                    background: none;
+                                                }#
+                                                pidoco.options a {
+                                                    color: #ebebeb;
+                                                    float: left;
+                                                }#
+                                                pidoco.options.lang {
+                                                    position: relative;
+                                                }#
+                                                pidoco.options.lang a {
+                                                    margin: 1px 5px 0 0;
+                                                    display: block;
+                                                }#
+                                                pidoco.options.lang a# lang-button {
+                                                    background: url(/sites/all / themes / pidoco2011 / images / bg-arrow.gif) no-repeat 100 % 7px;
+                                                    cursor: pointer;
+                                                    height: 18px;
+                                                    margin: 0px;
+                                                    width: 10px;
+                                                }#
+                                                pidoco.options.lang div.dropdown {
+                                                    background: #404040;display:none;left:2px;position:absolute;padding:2px 20px 4px 7px;top:20px;-webkit-border-bottom-right-radius:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-bottomleft:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;z-index:1;}# pidoco.options.lang div.dropdown.show {
+                                                        display: block;
+                                                    }#
+                                                    pidoco.options.lang div.dropdown a {
+                                                        background: none;
+                                                    }#
+                                                    pidoco.options img {
+                                                        display: block;
+                                                    }#
+                                                    pidoco# header.topnav {
+                                                        list-style: none;
+                                                        margin: 0;
+                                                        padding: 0;
+                                                        float: right;
+                                                        color: #eee;
+                                                        font-size: 14px;
+                                                        word-spacing: -1px;
+                                                    }#
+                                                    pidoco.topnav li {
+                                                        float: left;
+                                                        margin-right: 16px;
+                                                    }#
+                                                    pidoco.topnav li.phone {
+                                                        background: url(/sites/all / themes / pidoco2011 / images / ico-topnav.gif) no-repeat;
+                                                        padding-left: 22px;
+                                                    }#
+                                                    pidoco.topnav li.contact {
+                                                        background: url(/sites/all / themes / pidoco2011 / images / ico-topnav.gif) no-repeat 0-85px;
+                                                        padding-left: 21px;
+                                                    }#
+                                                    pidoco.topnav a {
+                                                        color: #eee;
+                                                    }#
+                                                    pidoco# header.nav-holder {
+                                                        width: 100 % ;
+                                                    }#
+                                                    pidoco# header.nav-holder: after {
+                                                        content: "";
+                                                        display: block;
+                                                        clear: both;
+                                                    }#
+                                                    pidoco# header.nav-holder ul.menu {
+                                                        list-style: none;
+                                                        margin: 0;
+                                                        padding: 0;
+                                                        float: right;
+                                                        text-transform: uppercase;
+                                                        font-size: 16px;
+                                                    }#
+                                                    pidoco.nav-holder.menu li {
+                                                        float: left;
+                                                        margin-left: 3px;
+                                                    }#
+                                                    pidoco.nav-holder.menu li a {
+                                                        float: left;
+                                                        padding: 8px 19px;
+                                                        color: #fff;
+                                                        background: #404040;border-top:1px solid # 525252;-webkit-border-radius: 8px 8px 0 0;-moz-border-radius: 8px 8px 0 0;
+                                                        border-radius: 8px 8px 0 0;
+                                                        behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                        position: relative;
+                                                    }#
+                                                    pidoco.nav-holder.menu li a: hover {
+                                                        background: #525252;border-top:1px solid # 626262;
+                                                        text-decoration: none;
+                                                    }#
+                                                    pidoco.nav-holder.menu li a.active {
+                                                        background: #a0bd00;
+                                                        border-top: 1px solid# a0bd00;
+                                                        font-weight: bold;
+                                                    }#
+                                                    pidoco.nav-holder.editor {
+                                                        background: #009cc9;border:0;color:# fff;-webkit-border-radius: 8px;-moz-border-radius: 8px;
+                                                        border-radius: 8px;
+                                                        behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                        padding: 7px 8px;
+                                                        font: italic 16px 'Droid Serif',
+                                                        serif;
+                                                        float: right;
+                                                        text-transform: none;
+                                                        margin-left: 4px;
+                                                    }#
+                                                    pidoco.nav-holder.editor: hover {
+                                                        background: #00acdb;border:0;}# pidoco.nav-holder.editor.arrow {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / bg-editor.gif) no-repeat;
+                                                            width: 16px;
+                                                            height: 8px;
+                                                            text-indent: -9999px;
+                                                            overflow: hidden;
+                                                            position: absolute;
+                                                            margin-left: -60px;
+                                                            margin-top: -15px;
+                                                        }#
+                                                        pidoco.nav-holder.editor: hover.arrow {
+                                                            background-position: 0-8px;
+                                                        }#
+                                                        pidoco.bottom-panel {
+                                                            width: 100 % ;
+                                                            overflow: hidden;
+                                                            text-align: center;
+                                                            padding: 146px 0 43px 0;
+                                                        }#
+                                                        pidoco.social-networks {
+                                                            list-style: none;
+                                                            margin: 0 3px 0 0;
+                                                            padding: 0;
+                                                            display: inline-block;
+                                                            vertical-align: middle;
+                                                        }#
+                                                        pidoco.social-networks li {
+                                                            display: inline-block;
+                                                            vertical-align: top;
+                                                            margin-right: 5px;
+                                                        }#
+                                                        pidoco.social-networks li a {
+                                                            display: block;
+                                                            text-indent: -9999px;
+                                                            overflow: hidden;
+                                                            width: 32px;
+                                                            height: 32px;
+                                                        }#
+                                                        pidoco.social-networks li a.delicious {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / ico-socials.gif) no-repeat;
+                                                        }#
+                                                        pidoco.social-networks li a.twitter {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / ico-socials.gif) no-repeat-37px 0;
+                                                        }#
+                                                        pidoco.social-networks li a.facebook {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / ico-socials.gif) no-repeat-74px 0;
+                                                        }#
+                                                        pidoco.social-networks li a.youtube {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / ico-socials.gif) no-repeat-111px 0;
+                                                        }#
+                                                        pidoco.social-networks li a.rss {
+                                                            background: url(/sites/all / themes / pidoco2011 / images / ico-socials.gif) no-repeat-148px 0;
+                                                        }#
+                                                        pidoco.bottom-panel span {
+                                                            display: inline-block;
+                                                            vertical-align: middle;
+                                                        }#
+                                                        pidoco# footer {
+                                                            background: #eee;
+                                                            color: #333;font-size:12px;line-height:16px;}# pidoco# footer# bottombox h2 {
+                                                                font-size: 12px;
+                                                                line-height: 16px;
+                                                            }#
+                                                            pidoco# footer.footer-holder {
+                                                                width: 954px;
+                                                                margin: 0 auto;
+                                                                overflow: hidden;
+                                                                padding: 0 0 42px;
+                                                            }#
+                                                            pidoco# footer.panel {
+                                                                width: 100 % ;
+                                                                overflow: hidden;
+                                                                padding: 18px 0 25px;
+                                                            }#
+                                                            pidoco# footer.panel.column {
+                                                                float: left;
+                                                                width: 126px;
+                                                                padding-right: 10px;
+                                                            }#
+                                                            pidoco# footer.panel.column strong {
+                                                                text-transform: uppercase;
+                                                            }#
+                                                            pidoco# footer.title {
+                                                                display: block;
+                                                                font-size: 12px;
+                                                                text-transform: uppercase;
+                                                            }#
+                                                            pidoco# footer.column ul {
+                                                                list-style: none;
+                                                                margin: 0;
+                                                                padding: 0;
+                                                            }#
+                                                            pidoco# footer.column ul a {
+                                                                color: #333;}# pidoco# footer.save-box {
+                                                                    float: right;
+                                                                    background: #fff;
+                                                                    width: 195px;
+                                                                    padding: 8px 5px;
+                                                                    text-align: center;
+                                                                    border: 1px solid# d9d9d9;-webkit-border-radius: 13px;-moz-border-radius: 13px;
+                                                                    border-radius: 13px;
+                                                                    behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                    position: relative;
+                                                                }#
+                                                                pidoco# footer.save-box.title {
+                                                                    color: #ff7200;
+                                                                    font: bold italic 18px 'Droid Serif',
+                                                                    serif;
+                                                                    text-transform: none;
+                                                                    margin: 0 0 10px;
+                                                                    word-spacing: -1px;
+                                                                }#
+                                                                pidoco# footer.save-box.logo {
+                                                                    background: url(/sites/all / themes / pidoco2011 / images / safe-logo.gif) no-repeat;
+                                                                    width: 130px;
+                                                                    height: 65px;
+                                                                    display: inline-block;
+                                                                    vertical-align: top;
+                                                                    text-indent: -9999px;
+                                                                    overflow: hidden;
+                                                                }#
+                                                                pidoco# footer p {
+                                                                    margin: 0 0 18px;
+                                                                }#
+                                                                pidoco# footer.subnav {
+                                                                    list-style: none;
+                                                                    margin: 0;
+                                                                    padding: 0;
+                                                                    text-align: center;
+                                                                    padding: 21px 0 0;
+                                                                }#
+                                                                pidoco# lpfooter {
+                                                                    background: #000;color:# 333;
+                                                                    font-size: 12px;
+                                                                    line-height: 16px;
+                                                                }#

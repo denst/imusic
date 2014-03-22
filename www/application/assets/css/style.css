@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+    font: 13px/18px 'Droid Sans',sans-serif;
+    background: #fff;
+    color: #333;
+    min-width: 960px;
+}
+a {
+    text-decoration: none;
+    color: #0077b7;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+#imusic #header {
+    background: #a0bd00;
+    border-bottom: 12px solid #E47F2D;
+    min-height: 165px;
+}
+#imusic #header .header-holder {
+    width: 954px;
+    margin: 0 auto;
+    padding: 13px 0 0 300px;
+    position: relative;
+    overflow: hidden;
+    min-height: 140px;
+}
+#imusic #header .logo {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    background: url(/img/music_256.png) no-repeat;
+    width: 243px;
+    height: 130px;
+    text-indent: -9999px;
+    overflow: hidden;
+    margin: 0;
+}
+#imusic #header .logo a {
+    display: block;
+    height: 100%;
+}
+#imusic #header .row {
+    height: 20px;
+    width: 100%;
+    margin-bottom: 47px;
+}
+#imusic #main {
+    width: 954px;
+    margin: 0 auto;
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+}
+#imusic .bottom-panel {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding: 146px 0 43px 0;
+}
+#imusic .promo .holder {
+    width: 954px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#imusic .info-graphic {
+    width: 100%;
+    background: url('/files/pages/homepage/promo.png') white no-repeat;
+    background-position: bottom 32px center;
+    height: 420px;
+    border-radius: 5px;
+}
+#imusic #main .info-graphic .info-headline {
+    text-align: center;
+    font: bold 48px 'Droid Sans',sans-serif;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+    padding-top: 31px;
+    margin: 0px 0px 58px 0px;
+    color: #444444;
+}
+#imusic .features-box {
+    padding: 26px 0 0;
+}
+#imusic #main h3 {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0 0 23px;
+    color: #333;
+    font-weight: bold;
+}
+#imusic .features-box {
+    padding: 26px 0 0;
+}
+#imusic .features-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 985px;
+}
+#imusic .features-list li {
+    display: inline-block;
+    vertical-align: top;
+    width: 302px;
+    margin: 0 24px 12px 0;
+}
+#imusic .features-list h4 {
+    margin: 0 0 10px;
+}
+#imusic .features-list .holder {
+    width: 100%;
+    overflow: hidden;
+}
+#imusic .features-list img {
+    float: left;
+    margin: 0 13px 0 0;
+}
+#imusic .features-list .text {
+    height: 1%;
+    overflow: hidden;
+}
+#imusic .features-list p {
+    margin: 0;
+}
+#imusic .features-list h4 a {
+    font-size: 14px;
+    color: #444;
+    font-weight: bold;
+}
+
+#imusic #footer {
+    background: #eee;
+    color: #333;
+    font-size: 12px;
+    line-height: 16px;
+}
+#imusic #footer .footer-holder {
+    width: 954px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0 42px;
+}
+#imusic #footer .panel {
+    width: 100%;
+    overflow: hidden;
+    padding: 18px 0 25px;
+}
+#imusic #footer .panel .column {
+    float: left;
+    width: 126px;
+    padding-right: 10px;
+}
+#imusic #footer .panel .column strong {
+    text-transform: uppercase;
+}
+#imusic #lpfooter {
+    background: #000;
+    color: #333;
+    font-size: 12px;
+    line-height: 16px;
+}
+#imusic #lpfooter .footer-holder {
+    width: 954px;
+    background: #000;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0 42px;
+}
+#imusic #lpfooter .panel {
+    width: 100%;
+    background: #000;
+    overflow: hidden;
+    padding: 18px 0 0;
+}
+#imusic #lpfooter .panel .column {
+    float: left;
+    width: 230px;
+}
+#imusic #lpfooter .panel .column strong {
+    text-transform: uppercase;
+    color: #222;
+}
+#imusic #lpfooter .column ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#imusic #lpfooter .column ul a {
+    color: #333;
+}

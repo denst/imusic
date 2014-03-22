@@ -1,0 +1,507 @@
+#
+                                                                pidoco# lpfooter.footer - holder {
+                                                                    width: 954px;
+                                                                    background: #000;margin:0 auto;overflow:hidden;padding:0 0 42px;}# pidoco# lpfooter.panel {
+                                                                        width: 100 % ;
+                                                                        background: #000;overflow:hidden;padding:18px 0 0;}# pidoco# lpfooter.panel.column {
+                                                                            float: left;
+                                                                            width: 230px;
+                                                                        }#
+                                                                        pidoco# lpfooter.panel.column strong {
+                                                                            text - transform: uppercase;
+                                                                            color: #222;}# pidoco# lpfooter.column ul {
+                                                                                list - style: none;
+                                                                                margin: 0;
+                                                                                padding: 0;
+                                                                            }#
+                                                                            pidoco# lpfooter.column ul a {
+                                                                                color: #333;}# pidoco.subnav li {
+                                                                                    display: inline;
+                                                                                    margin: 0 4px;
+                                                                                }#
+                                                                                pidoco.subnav a {
+                                                                                    color: #333;}
+# pidoco.lightbox {
+                                                                                        display: none;
+                                                                                        position: absolute;
+                                                                                        z - index: 10000;
+                                                                                    }#
+                                                                                    pidoco.lightbox.box {
+                                                                                        border: 8px solid #666;-webkit-border-radius:18px;-moz-border-radius:18px;border-radius:18px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);width:276px;background:# fff;
+                                                                                        padding: 0 27px 24px;
+                                                                                        overflow: hidden;
+                                                                                    }#
+                                                                                    pidoco.lightbox - login.box {
+                                                                                        width: 224px;
+                                                                                    }#
+                                                                                    pidoco.lightbox.close {
+                                                                                        position: absolute;
+                                                                                        background: url(/sites/all / themes / pidoco2011 / images / btn - close.png) no - repeat;
+                                                                                        cursor: pointer;
+                                                                                        width: 39px;
+                                                                                        height: 40px;
+                                                                                        top: -15px;
+                                                                                        right: -15px;
+                                                                                        text - indent: -9999px;
+                                                                                        overflow: hidden;
+                                                                                        z - index: 1;
+                                                                                    }#
+                                                                                    pidoco.lightbox.close: hover {
+                                                                                        background - position: 0 - 40px;
+                                                                                    }#
+                                                                                    pidoco.lightbox h2 {
+                                                                                        font - size: 30px;
+                                                                                        line - height: 40px;
+                                                                                        margin: 0 - 27px 17px!important;
+                                                                                        background: #333;color:# fff;
+                                                                                        padding: 23px 27px; - webkit - border - radius: 9px 9px 0 0; - moz - border - radius: 9px 9px 0 0;
+                                                                                        border - radius: 9px 9px 0 0;
+                                                                                        behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                    }#
+                                                                                    pidoco.lightbox - login h2 {
+                                                                                        margin - bottom: 23px;
+                                                                                    }#
+                                                                                    pidoco.lightbox h3 {
+                                                                                        font - size: 23px;
+                                                                                        line - height: 29px;
+                                                                                        margin: 0 0 20px;
+                                                                                    }#
+                                                                                    pidoco.lightbox# user - login.form - text {
+                                                                                        width: 196px;
+                                                                                    }#
+                                                                                    pidoco.lightbox# login - wrap {
+                                                                                        border: none;
+                                                                                        margin: 0;
+                                                                                        padding: 0;
+                                                                                        width: auto;
+                                                                                    }#
+                                                                                    pidoco.lightbox.row {
+                                                                                        font - size: 12px;
+                                                                                        margin: -5px 0 18px!important;
+                                                                                        padding: 0 2px;
+                                                                                        height: 1 % ;
+                                                                                        overflow: hidden;
+                                                                                    }#
+                                                                                    pidoco.lightbox.
+                                                                                    continue {
+                                                                                        color: #fff;
+                                                                                        font - weight: bold;
+                                                                                        background: #009cc9;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;behavior:url(/sites/all/themes/pidoco2011/css/js/PIE.htc);display:inline-block;vertical-align:top;padding:8px 11px;position:relative;margin:-3px 0 0 3px;font-size:14px;word-spacing:-1px;}# pidoco.lightbox.
+                                                                                        continue: hover {
+                                                                                            text - decoration: none;
+                                                                                            background: #00acdb;}# pidoco.lightbox p {
+                                                                                                margin: 0;
+                                                                                            }#
+                                                                                            pidoco.lightbox.loginform p a {
+                                                                                                display: inline - block;
+                                                                                                vertical - align: top;
+                                                                                                padding: 3px 0 0;
+                                                                                            }#
+                                                                                            pidoco.lightbox.tooltip - box {
+                                                                                                top: 75px;
+                                                                                                right: -190px;
+                                                                                            }#
+                                                                                            pidoco.lightbox.tooltip - box.c {
+                                                                                                min - height: 1px;
+                                                                                            }#
+                                                                                            pidoco.lightbox.tooltip - box ul {
+                                                                                                margin: 0 0 7px;
+                                                                                            }#
+                                                                                            pidoco.lightbox.bar - holder {
+                                                                                                margin: -22px 0 - 25px;
+                                                                                            }#
+                                                                                            pidoco.lightbox.bar {
+                                                                                                background: #333;color:# fff;
+                                                                                                padding: 12px 30px;
+                                                                                                margin: 0 - 27px;
+                                                                                                font - size: 13px; - webkit - border - radius: 0 0 9px 9px; - moz - border - radius: 0 0 9px 9px;
+                                                                                                border - radius: 0 0 9px 9px;
+                                                                                                behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                                position: relative;
+                                                                                            }#
+                                                                                            pidoco.lightbox.bar p a {
+                                                                                                display: inline!important;
+                                                                                                color: #339dcf;padding:0;}# pidoco.lightbox - buying - faq.box {
+                                                                                                    width: 750px;
+                                                                                                }#
+                                                                                                pidoco.lightbox - buying - faq ul {
+                                                                                                    padding - left: 20px;
+                                                                                                    margin - top: 30px;
+                                                                                                }#
+                                                                                                pidoco.lightbox - buying - faq li {
+                                                                                                    list - style - image: url(/sites/all / themes / pidoco2011 / images / bg - arrow - black - d.png);
+                                                                                                    margin - bottom: 0.8em;
+                                                                                                }#
+                                                                                                pidoco.lightbox - buying - faq h4 {
+                                                                                                    color: #000;cursor:pointer;margin-bottom:1.0em;}# pidoco.lightbox - buying - faq h4: hover {
+                                                                                                        text - decoration: underline;
+                                                                                                    }#
+                                                                                                    pidoco.lightbox - buying - faq li p {
+                                                                                                        display: block;
+                                                                                                    }#
+                                                                                                    pidoco.lightbox - buying - faq li.closed {
+                                                                                                        list - style - image: url(/sites/all / themes / pidoco2011 / images / bg - arrow - blue - r.png);
+                                                                                                    }#
+                                                                                                    pidoco.lightbox - buying - faq li.closed h4 {
+                                                                                                        color: #0077b7;}# pidoco.lightbox - buying - faq li.closed p {
+                                                                                                            display: none;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - repository.box {
+                                                                                                            width: 640px;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - repository p a {
+                                                                                                            vertical - align: bottom;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - repository.unconfirmed - account# main {
+                                                                                                            width: auto;
+                                                                                                            overflow: visible;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - repository.unconfirmed - account p {
+                                                                                                            margin - bottom: 10px!important;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - upgrade.box {
+                                                                                                            width: auto;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - upgrade.pricing - list p {
+                                                                                                            margin - bottom: 20px;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - upgrade ul {
+                                                                                                            margin - bottom: 0px!important;
+                                                                                                            width: 460px;
+                                                                                                        }#
+                                                                                                        pidoco.lightbox - upgrade.ghost h3,
+                                                                                                        #pidoco.lightbox - upgrade.ghost a,
+                                                                                                        #pidoco.lightbox - upgrade.ghost strong {
+                                                                                                            color: #555 !important;}# pidoco.lightbox - upgrade.pricing - list.basic {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - basic - short.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.pricing - list.classic {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - classic - short.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.pricing - list.expert {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - expert - short.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.basic.ghost {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - basic - short - ghost.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.classic.ghost {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - classic - short - ghost.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.expert.ghost {
+                                                                                                                background: url(/sites/all / themes / pidoco2011 / images / bg - expert - short - ghost.png);
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.basic,
+                                                                                                            #pidoco.lightbox - upgrade.classic,
+                                                                                                            #pidoco.lightbox - upgrade.expert {
+                                                                                                                padding: 0px!important;
+                                                                                                                text - shadow: 1px 1px white;
+                                                                                                                margin: 0 0 12px;
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.basic,
+                                                                                                            #pidoco.lightbox - upgrade.basic a.plan - button {
+                                                                                                                height: 100px!important;
+                                                                                                                width: 127px!important;
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.classic,
+                                                                                                            #pidoco.lightbox - upgrade.classic a.plan - button {
+                                                                                                                height: 109px!important;
+                                                                                                                width: 137px!important;
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade.expert,
+                                                                                                            #pidoco.lightbox - upgrade.expert a.plan - button {
+                                                                                                                height: 116px!important;
+                                                                                                                width: 147px!important;
+                                                                                                            }#
+                                                                                                            pidoco.lightbox - upgrade li a.plan - button {
+                                                                                                                color: #333;background:none;display:block;position:relative;left:0;top:0;padding:0;}# pidoco.lightbox - upgrade li a.plan - button: hover {
+                                                                                                                    text - decoration: none;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - upgrade h3 {
+                                                                                                                    text - transform: uppercase;
+                                                                                                                    font: 24px 'Open Sans',
+                                                                                                                    sans - serif!important;
+                                                                                                                    margin - bottom: 0px;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - upgrade.basic h3 {
+                                                                                                                    padding: 25px 0 0;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - upgrade.classic h3 {
+                                                                                                                    padding: 30px 0 0;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - upgrade.expert h3 {
+                                                                                                                    padding: 35px 0 0;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - intro - video.box {
+                                                                                                                    width: 640px;
+                                                                                                                }#
+                                                                                                                pidoco.lightbox - webinar - contact.box,
+                                                                                                                #pidoco.lightbox - webinar - contact# main {
+                                                                                                                    width: 430px;
+                                                                                                                }#
+                                                                                                                pidoco.form - text {
+                                                                                                                    border: 1px solid# c9c9c9; - webkit - border - radius: 5px; - moz - border - radius: 5px;
+                                                                                                                    border - radius: 5px;
+                                                                                                                    behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                                                    overflow: hidden;
+                                                                                                                    background: #fff;
+                                                                                                                    padding: 5px 8px;
+                                                                                                                }#
+                                                                                                                pidoco.form - submit {
+                                                                                                                    background: #ff7200;
+                                                                                                                    behavior: url(/sites/all / themes / pidoco2011 / css / js / PIE.htc);
+                                                                                                                    cursor: pointer;
+                                                                                                                    color: #fff;
+                                                                                                                    border: 0; - webkit - border - radius: 9px; - moz - border - radius: 9px;
+                                                                                                                    border - radius: 9px;
+                                                                                                                    font - weight: bold;
+                                                                                                                    font - size: 14px;
+                                                                                                                    height: 33px;
+                                                                                                                    line - height: 33px;
+                                                                                                                }#
+                                                                                                                pidoco.form - submit: hover {
+                                                                                                                    background: #ff9100;
+                                                                                                                    text - decoration: none;
+                                                                                                                }#
+                                                                                                                pidoco.form - item label {
+                                                                                                                    display: block;
+                                                                                                                    font - weight: normal;
+                                                                                                                    margin: 0 0 2px;
+                                                                                                                    padding - left: 3px;
+                                                                                                                }#
+                                                                                                                pidoco.form - item input.error {
+                                                                                                                    border: 1px solid# F9B67F;
+                                                                                                                    color: black;
+                                                                                                                }#
+                                                                                                                pidoco form fieldset legend {
+                                                                                                                    font - size: 24px;
+                                                                                                                    line - height: normal;
+                                                                                                                    font - weight: bold;
+                                                                                                                    padding: 0 0 20px 0;
+                                                                                                                }#
+                                                                                                                pidoco# user - profile - form {
+                                                                                                                    width: 492px;
+                                                                                                                    float: left;
+                                                                                                                }#
+                                                                                                                pidoco# user - profile - form.column {
+                                                                                                                    float: left;
+                                                                                                                    width: 225px;
+                                                                                                                    padding - right: 10px;
+                                                                                                                }#
+                                                                                                                pidoco# user - profile - form.row {
+                                                                                                                    width: 100 % ;
+                                                                                                                    overflow: hidden;
+                                                                                                                    margin: 0;
+                                                                                                                }#
+                                                                                                                pidoco# user - profile - form input.form - text {
+                                                                                                                    color: #898888;width:196px;margin:0;}# pidoco# user - profile - form.form - select {
+                                                                                                                        width: 214px;
+                                                                                                                    }#
+                                                                                                                    pidoco# user - profile - form.form - item.description {
+                                                                                                                        color: #9c9c9c;padding-left:3px;}# pidoco# user - profile - form.form - submit {
+                                                                                                                            float: right;
+                                                                                                                            padding: 0 0 2px;
+                                                                                                                            width: 152px;
+                                                                                                                            margin - right: 10px;
+                                                                                                                        }#
+                                                                                                                        pidoco# user - profile - form# edit - delete {
+                                                                                                                            background: #ebebeb;
+                                                                                                                            color: #666;}# pidoco# user - profile - form# edit - delete: hover {
+                                                                                                                                background: #f3f3f3;
+                                                                                                                            }#
+                                                                                                                            pidoco.user - form - wrap {
+                                                                                                                                border: 8px solid# e6e6e6;
+                                                                                                                                margin: 50px auto;
+                                                                                                                                padding: 15px;
+                                                                                                                                width: 280px;
+                                                                                                                            }#
+                                                                                                                            pidoco# user - login.form - text {
+                                                                                                                                display: block;
+                                                                                                                                margin: 0;
+                                                                                                                                width: 260px;
+                                                                                                                                float: none;
+                                                                                                                            }#
+                                                                                                                            pidoco# user - login.form - submit {
+                                                                                                                                -webkit - border - radius: 5px; - moz - border - radius: 5px;
+                                                                                                                                border - radius: 5px;
+                                                                                                                                display: block;
+                                                                                                                                width: 94px;
+                                                                                                                                margin: 18px 0 15px 2px;
+                                                                                                                            }#
+                                                                                                                            pidoco# user - pass.form - text {
+                                                                                                                                display: block;
+                                                                                                                                margin: 0;
+                                                                                                                                width: 260px;
+                                                                                                                                float: none;
+                                                                                                                            }#
+                                                                                                                            pidoco# user - pass.form - submit {
+                                                                                                                                -webkit - border - radius: 5px; - moz - border - radius: 5px;
+                                                                                                                                border - radius: 5px;
+                                                                                                                                display: block;
+                                                                                                                                width: auto;
+                                                                                                                                margin: 18px 0 15px 2px;
+                                                                                                                            }.page - user - register# user - register - form.signup - button {
+                                                                                                                                display: none;
+                                                                                                                            }.page - user - register# user - register - form input.form - text {
+                                                                                                                                width: 390px;
+                                                                                                                            }.page - user - register# user - register - form input.form - checkbox {
+                                                                                                                                float: left;
+                                                                                                                                margin: 0px 16px 0 1px;
+                                                                                                                                width: 16px;
+                                                                                                                                height: 15px;
+                                                                                                                                padding: 0;
+                                                                                                                            }.page - user - register# user - register - form {
+                                                                                                                                border: 8px solid# e6e6e6;
+                                                                                                                                margin: 50px auto;
+                                                                                                                                padding: 15px;
+                                                                                                                                width: 410px;
+                                                                                                                            }#
+                                                                                                                            pidoco.lightbox - request - quote.box,
+                                                                                                                            #pidoco.lightbox - request - quote# main {
+                                                                                                                                width: 600px;
+                                                                                                                            }#
+                                                                                                                            pidoco.requestquoteform p {
+                                                                                                                                margin - bottom: 15px;
+                                                                                                                            }#
+                                                                                                                            pidoco.requestquoteform.form - item {
+                                                                                                                                margin: 0;
+                                                                                                                                clear: both;
+                                                                                                                            }#
+                                                                                                                            pidoco.requestquoteform.form - item label {
+                                                                                                                                clear: both;
+                                                                                                                                float: left;
+                                                                                                                                display: inline;
+                                                                                                                                width: 90px;
+                                                                                                                                height: 28px;
+                                                                                                                                line - height: 28px;
+                                                                                                                                padding - left: 15px;
+                                                                                                                            }#
+                                                                                                                            pidoco.requestquoteform.form - item label.error {
+                                                                                                                                width: auto;
+                                                                                                                            }#
+                                                                                                                            pidoco.requestquoteform input.form - text {
+                                                                                                                                color: #898888;width:170px;float:left;}# pidoco.requestquoteform.rq - column {
+                                                                                                                                    float: left;
+                                                                                                                                    margin - bottom: 15px;
+                                                                                                                                    overflow: hidden;
+                                                                                                                                    width: 50 % ;
+                                                                                                                                }#
+                                                                                                                                pidoco.requestquoteform.rq - column: first - child {
+                                                                                                                                    padding - left: 0;
+                                                                                                                                }#
+                                                                                                                                pidoco.requestquoteform.rq - tabs {
+                                                                                                                                    clear: both;
+                                                                                                                                    margin: 20px 0 - 1px 0;
+                                                                                                                                    padding: 0;
+                                                                                                                                    overflow: hidden;
+                                                                                                                                }#
+                                                                                                                                pidoco.requestquoteform.rq - tabs li {
+                                                                                                                                    border: 1px solid #333;border-bottom:0;background:# 333;
+                                                                                                                                    color: #fff;
+                                                                                                                                    cursor: pointer;
+                                                                                                                                    float: left;
+                                                                                                                                    margin - left: 4px;
+                                                                                                                                    width: 276px;
+                                                                                                                                    padding: 7px 0 9px 20px; - webkit - border - top - left - radius: 10px; - webkit - border - top - right - radius: 10px; - moz - border - radius - topleft: 10px; - moz - border - radius - topright: 10px;
+                                                                                                                                    border - top - left - radius: 10px;
+                                                                                                                                    border - top - right - radius: 10px;
+                                                                                                                                    font - size: 14px;
+                                                                                                                                    font - weight: bold;
+                                                                                                                                }#
+                                                                                                                                pidoco.requestquoteform.rq - tabs li: first - child {
+                                                                                                                                    margin - left: 0px;
+                                                                                                                                }#
+                                                                                                                                pidoco.requestquoteform.rq - tabs li.active {
+                                                                                                                                    background: #f9f9f9;
+                                                                                                                                    border - color: #e0e0e0;
+                                                                                                                                    color: #333;cursor:auto;}# pidoco.requestquoteform.rq - wrap {
+                                                                                                                                        background: #f9f9f9;
+                                                                                                                                        border: 1px solid# e0e0e0;
+                                                                                                                                        border - bottom - left - radius: 10px;
+                                                                                                                                        border - bottom - right - radius: 10px; - webkit - border - bottom - left - radius: 10px; - webkit - border - bottom - right - radius: 10px; - moz - border - radius - bottomleft: 10px; - moz - border - radius - bottomright: 10px;
+                                                                                                                                        overflow: hidden;
+                                                                                                                                        margin - bottom: 15px;
+                                                                                                                                        padding: 15px 20px 15px 20px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform.rq - wrap.rq - column {
+                                                                                                                                        margin - bottom: 0;
+                                                                                                                                        padding - bottom: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform.rq - wrap.form - item label,
+                                                                                                                                    #pidoco.requestquoteform.rq - wrap input.form - text {
+                                                                                                                                        float: none;
+                                                                                                                                        padding - left: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform# rq - server {
+                                                                                                                                        display: none;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform.form - radios {
+                                                                                                                                        margin - bottom: 5px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform.form - radio {
+                                                                                                                                        margin: -3px 10px 0 2px;
+                                                                                                                                        vertical - align: middle;
+                                                                                                                                        padding: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform# rq - inhouse - features,
+                                                                                                                                    #pidoco.requestquoteform# rq - hosted - features {
+                                                                                                                                        background: #fff;
+                                                                                                                                        padding: 9px 9px 5px 9px;
+                                                                                                                                        border - radius: 10px;
+                                                                                                                                        margin - left: 15px;
+                                                                                                                                        margin - top: 10px; - webkit - border - radius: 10px; - moz - border - radius: 10px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform# rq - inhouse - features ul,
+                                                                                                                                    #pidoco.requestquoteform# rq - hosted - features ul {
+                                                                                                                                        list - style: none;
+                                                                                                                                        margin: 0;
+                                                                                                                                        padding: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform# rq - inhouse - features li,
+                                                                                                                                    #pidoco.requestquoteform# rq - hosted - features li {
+                                                                                                                                        background: url(/sites/all / themes / pidoco2011 / images / bullet01.gif) no - repeat 0 1px;
+                                                                                                                                        line - height: 22px;
+                                                                                                                                        padding - left: 31px;
+                                                                                                                                        margin - bottom: 5px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.requestquoteform.form - submit {
+                                                                                                                                        padding: 0 20px 2px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.webinarform legend {
+                                                                                                                                        font - size: 13px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.webinarform.form - text {
+                                                                                                                                        width: 300px;
+                                                                                                                                        margin: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.webinarform.form - textarea {
+                                                                                                                                        border: 1px solid# c9c9c9;
+                                                                                                                                        padding: 5px 8px; - webkit - border - radius: 5px; - moz - border - radius: 5px;
+                                                                                                                                        border - radius: 5px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.webinarform.form - submit {
+                                                                                                                                        padding: 0 20px 2px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco# pidoco - forms - contact - form.form - text {
+                                                                                                                                        width: 300px;
+                                                                                                                                        margin: 0;
+                                                                                                                                    }#
+                                                                                                                                    pidoco# pidoco - forms - contact - form.form - select {
+                                                                                                                                        border: 1px solid# CCCAC8;
+                                                                                                                                        width: 320px;
+                                                                                                                                        padding: 8px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco# pidoco - forms - contact - form.webform - component - email {
+                                                                                                                                        padding - top: 10px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco# pidoco - forms - contact - form.form - textarea {
+                                                                                                                                        border: 1px solid# c9c9c9;
+                                                                                                                                        border - bottom: 0;
+                                                                                                                                        padding: 5px 8px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco# pidoco - forms - contact - form.form - submit {
+                                                                                                                                        padding: 0 20px 2px;
+                                                                                                                                    }#
+                                                                                                                                    pidoco.congratulations.form - item.form - text {
+                                                                                                                                        width: 300px;
+                                                                                                                                        margin: 0;
+                                                                                                                                    }#

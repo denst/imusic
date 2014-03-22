@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    font: 13px/18px 'Droid Sans',sans-serif;
+    background: #fff;
+    color: #333;
+    min-width: 960px;
+}
+a {
+    text-decoration: none;
+    color: #0077b7;
+}
+
+li a.active {
+    color: #000;
+}
+noscript {
+    color: #fff;
+}
+.element-invisible {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px,1px,1px,1px);
+    overflow: hidden;
+    height: 1px;
+}
+#pidoco #header {
+    background: #2f2f2f;
+    border-bottom: 12px solid #a0bd00;
+    min-height: 115px;
+}
+#pidoco .skip {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+#pidoco #header .header-holder {
+    width: 654px;
+    margin: 0 auto;
+    padding: 13px 0 0 300px;
+    position: relative;
+    overflow: hidden;
+    min-height: 102px;
+}
+#pidoco #header .logo {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    background: url(/sites/all/themes/pidoco2011/images/logo.gif) no-repeat;
+    width: 243px;
+    height: 61px;
+    text-indent: -9999px;
+    overflow: hidden;
+    margin: 0;
+}
+#pidoco #header .logo a {
+    display: block;
+    height: 100%;
+}
+#pidoco #header .row {
+    height: 20px;
+    width: 100%;
+    margin-bottom: 47px;
+}
+#pidoco #header .options {
+    list-style: none;
+    margin: 0 0 0 3px;
+    padding: 0;
+    float: right;
+    background: #404040;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    behavior: url(/sites/all/themes/pidoco2011/css/js/PIE.htc);
+    font-size: 14px;
+    position: relative;
+}
+#pidoco .options li {
+    float: left;
+    background: url(/sites/all/themes/pidoco2011/images/divider01.gif) repeat-y;
+    padding: 1px 9px;
+}
+#pidoco .options .lang {
+    position: relative;
+}
+#pidoco .options li:first-child {
+    background: none;
+}
+#pidoco .options a {
+    color: #ebebeb;
+    float: left;
+}
+#pidoco .options .lang a {
+    margin: 1px 5px 0 0;
+    display: block;
+}
+#pidoco .options .lang a#lang-button {
+    background: url(/sites/all/themes/pidoco2011/images/bg-arrow.gif) no-repeat 100% 7px;
+    cursor: pointer;
+    height: 18px;
+    margin: 0px;
+    width: 10px;
+}
+#pidoco .options .lang div.dropdown {
+    background: #404040;
+    display: none;
+    left: 2px;
+    position: absolute;
+    padding: 2px 20px 4px 7px;
+    top: 20px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    z-index: 1;
+}
